@@ -14,11 +14,12 @@
 
 ## LOR ALCOR
 
-***
-
+* [Алькор: Глоссарий](lor-alcor/alkor-glossarii/README.md)
+  * [Алькор: Бестиарий](lor-alcor/alkor-glossarii/alkor-bestiarii.md)
 * [Алькор: Ознакомительная версия](alkor-oznakomitelnaya-versiya.md)
 * [Алькор: Сюжетная линия](alkor-syuzhetnaya-liniya.md)
-* [Алькор: Глоссарий](alkor-glossarii.md)
-* [Алькор: Бестиарий](alkor-bestiarii.md)
-* [Игровой процесс: Начало](igrovoi-process-nachalo.md)
+* [Алькор: Раскол Эха (Фракции)](lor-alcor/alkor-raskol-ekha-frakcii.md)
+* [Игровой процесс: Фазы](igrovoi-process-nachalo.md)
+* [Игровой процесс: Цели](lor-alcor/igrovoi-process-celi.md)
 * [Игровой процесс: Древо души](igrovoi-process-drevo-dushi.md)
+* [Page 3](lor-alcor/page-3.md)

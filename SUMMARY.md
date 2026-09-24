@@ -21,5 +21,5 @@
 * [Алькор: Раскол Эха (Фракции)](lor-alcor/alkor-raskol-ekha-frakcii.md)
 * [Игровой процесс: Фазы](igrovoi-process-nachalo.md)
 * [Игровой процесс: Цели](lor-alcor/igrovoi-process-celi.md)
-* [Игровой процесс: Древо души](igrovoi-process-drevo-dushi.md)
+* [Игровой процесс: Древо Души](igrovoi-process-drevo-dushi.md)
 * [Page 3](lor-alcor/page-3.md)

@@ -3,7 +3,7 @@
 ## Главная
 
 * [Приветствие](README.md)
-* [Информация по анкетированию](glavnaya/osnovnoe.md)
+* [Информация по Анкетам](glavnaya/osnovnoe.md)
 * [Нововведения](glavnaya/novovvedeniya.md)
 
 ## Администраторская

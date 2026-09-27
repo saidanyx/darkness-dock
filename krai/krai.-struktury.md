@@ -13,11 +13,13 @@ _\*В данный раздел могут быть внесены измене�
 
 ### Структура №1. Лаборатория
 
-<figure><img src="../.gitbook/assets/Screenshot_64.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot_64.png" alt=""><figcaption></figcaption></figure>
 
 ### Структура №2. Башня наблюдателя
 
-<div><figure><img src="../.gitbook/assets/Screenshot_66.png" alt="" width="347"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Screenshot_67.png" alt="" width="563"><figcaption></figcaption></figure></div>
+<figure><img src="../.gitbook/assets/Screenshot_66.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Screenshot_67.png" alt=""><figcaption></figcaption></figure>
 
 ### Структура №3. Руины
 

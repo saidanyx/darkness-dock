@@ -3,6 +3,7 @@ description: подробная информация про игровые фа�
 icon: moon-waxing-gibbous
 tags:
   - alcor
+  - info
 ---
 
 # Игровой процесс. Фазы

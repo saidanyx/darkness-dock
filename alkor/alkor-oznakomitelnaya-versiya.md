@@ -1,8 +1,9 @@
 ---
 description: упрощенная версия лора конкретно про Осколки и ближайших активностей.
-icon: reddit-alien
+icon: gem
 tags:
   - alcor
+  - info
 ---
 
 # Алькор. Осколки

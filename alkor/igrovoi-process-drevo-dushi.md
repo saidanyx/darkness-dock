@@ -6,6 +6,7 @@ description: >-
 icon: tree-deciduous
 tags:
   - alcor
+  - info
 ---
 
 # Игровой процесс. Древо Души

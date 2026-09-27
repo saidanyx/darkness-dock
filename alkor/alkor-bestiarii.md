@@ -5,6 +5,7 @@ description: >-
 icon: paw-claws
 tags:
   - alcor
+  - info
 ---
 
 # Алькор. Бестиарий

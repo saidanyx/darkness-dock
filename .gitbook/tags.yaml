@@ -1,3 +1,9 @@
 - tag: alcor
-  label: Alcor
+  label: alcor
   color: violet
+- tag: admins
+  label: admins
+  color: red
+- tag: info
+  label: info
+  color: $info

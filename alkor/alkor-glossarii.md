@@ -5,6 +5,7 @@ description: >-
 icon: readme
 tags:
   - alcor
+  - info
 ---
 
 # Алькор. Глоссарий

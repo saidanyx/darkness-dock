@@ -12,14 +12,22 @@
 
 * [Новые структуры](novvovedeniya/novye-struktury.md)
 
-## LOR ALCOR
+## Преисподняя
 
-* [Алькор: Глоссарий](lor-alcor/alkor-glossarii/README.md)
-  * [Алькор: Бестиарий](lor-alcor/alkor-glossarii/alkor-bestiarii.md)
-* [Алькор: Ознакомительная версия](alkor-oznakomitelnaya-versiya.md)
-* [Алькор: Сюжетная линия](alkor-syuzhetnaya-liniya.md)
-* [Алькор: Раскол Эха (Фракции)](lor-alcor/alkor-raskol-ekha-frakcii.md)
-* [Игровой процесс: Фазы](igrovoi-process-nachalo.md)
-* [Игровой процесс: Цели](lor-alcor/igrovoi-process-celi.md)
-* [Игровой процесс: Древо Души](igrovoi-process-drevo-dushi.md)
-* [Page 3](lor-alcor/page-3.md)
+* [Преисподняя. Структуры](preispodnyaya/preispodnyaya.-struktury.md)
+
+## Край
+
+* [Край. Структуры](krai/krai.-struktury.md)
+
+## Алькор
+
+* [Алькор. Глоссарий](alkor/alkor-glossarii.md)
+* [Алькор. Бестиарий](alkor/alkor-bestiarii.md)
+* [Алькор. Осколки](alkor/alkor-oznakomitelnaya-versiya.md)
+* [Алькор. Сюжетная линия](alkor/alkor-syuzhetnaya-liniya.md)
+* [Алькор. Раскол Эха (Фракции)](alkor/alkor.-raskol-ekha-frakcii.md)
+* [Игровой процесс. Фазы](alkor/igrovoi-process-nachalo.md)
+* [Игровой процесс. Цели](alkor/igrovoi-process.-celi.md)
+* [Игровой процесс. Древо Души](alkor/igrovoi-process-drevo-dushi.md)
+* [в разработке...](alkor/v-razrabotke....md)
